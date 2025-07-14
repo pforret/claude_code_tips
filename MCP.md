@@ -2,34 +2,36 @@
 
 ## Best practices for agentic coding
 
-Setup & Customization:
-- Create CLAUDE.md files with project-specific commands, conventions, and guidelines
-- Configure allowed tools for safety and efficiency
-- Install GitHub CLI for better GitHub integration
-
-Expanding Capabilities:
-- Use bash tools and custom scripts
-- Leverage Model Context Protocol (MCP) servers
-- Create custom slash commands for repeated workflows
-
-Workflow Strategies:
-- Explore, Plan, Code, Commit approach: Read files → Make detailed plan → Implement → Commit/PR
-- Test-Driven Development: Write tests first → Confirm failure → Implement → Commit incrementally
-
-Optimization Tips:
-- Be specific in instructions and use visual references
-- Course-correct early and often
-- Use /clear to maintain a focused context
-- Employ multi-Claude workflows for complex tasks
-
-Advanced Techniques:
-- Use headless mode for automation
-- Employ "Safe YOLO mode" for uninterrupted work
-- Use Claude for codebase exploration and Q&A
+> Setup & Customization:
+> - Create CLAUDE.md files with project-specific commands, conventions, and guidelines
+> - Configure allowed tools for safety and efficiency
+> - Install GitHub CLI for better GitHub integration
+>
+> Expanding Capabilities:
+> - Use bash tools and custom scripts
+> - Leverage Model Context Protocol (MCP) servers
+> - Create custom slash commands for repeated workflows
+>
+> Workflow Strategies:
+> - Explore, Plan, Code, Commit approach: Read files → Make detailed plan → Implement → Commit/PR
+> - Test-Driven Development: Write tests first → Confirm failure → Implement → Commit incrementally
+>
+> Optimization Tips:
+> - Be specific in instructions and use visual references
+> - Course-correct early and often
+> - Use /clear to maintain a focused context
+> - Employ multi-Claude workflows for complex tasks
+>
+> Advanced Techniques:
+> - Use headless mode for automation
+> - Employ "Safe YOLO mode" for uninterrupted work
+> - Use Claude for codebase exploration and Q&A
 
 * https://www.anthropic.com/engineering/claude-code-best-practices
 
 ## VisionCraft
+
+> While other context providers like Context 7 aim to supply LLMs with up-to-date documentation, VisionCraft offers distinct advantages for developers seeking precision, breadth, and efficiency. VisionCraft boasts access to over 100,000 libraries, all kept current in real-time through our proprietary Raven engine, ensuring you're always working with the latest information.
 
 * https://github.com/augmentedstartups/VisionCraft-MCP-Server
 
