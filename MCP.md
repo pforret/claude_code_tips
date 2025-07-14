@@ -29,6 +29,12 @@
 
 * https://www.anthropic.com/engineering/claude-code-best-practices
 
+## Context7
+
+> Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations, and an AI that actually understands your stack.
+
+* https://context7.com/
+
 ## VisionCraft
 
 > While other context providers like Context 7 aim to supply LLMs with up-to-date documentation, VisionCraft offers distinct advantages for developers seeking precision, breadth, and efficiency. VisionCraft boasts access to over 100,000 libraries, all kept current in real-time through our proprietary Raven engine, ensuring you're always working with the latest information.
