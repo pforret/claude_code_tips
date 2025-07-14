@@ -46,3 +46,21 @@
 > A complete setup guide for integrating Google's Gemini CLI with Claude Code through an MCP (Model Context Protocol) server. This provides automatic second opinion consultation when Claude expresses uncertainty or encounters complex technical decisions.
 
 * https://gist.github.com/AndrewAltimit/fc5ba068b73e7002cbe4e9721cebb0f5
+
+## Microsoft Playwright MCP
+
+> A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
+
+* https://github.com/microsoft/playwright-mcp
+
+## Chunkhound
+
+> Transform your codebase into a searchable knowledge base. ChunkHound provides AI assistants with intelligent code search capabilities using natural language and regex patterns.
+
+* https://github.com/ofriw/chunkhound
+
+## Octocode
+
+> The perfect code assistant that can help understand anything. Octocode provides AI-powered advanced search with heuristic discovery and smart fallbacks to understand connections between repositories and NPM packages across any privilege level you have.
+
+* https://github.com/bgauryy/octocode-mcp
