@@ -1,3 +1,15 @@
+# Using git as an intermediate checkpoint system with Claude Code
+
+## TL;DR
+
+```bash
+1. git checkout -b [new_branch]        # create a new branch for your big update
+2. git add. && git commit -m '[Intermediate status description]'
+3. git reset --hard                    # if the changes after the last commit are not needed
+4. git rebase -i [ab743e]              # just before the intermediate commits started
+5. git push origin [new_branch] -f     # force push if you squashed commits
+```
+
 You can effectively use Git's features to create "checkpoints" during a large software update and then consolidate them into a single pull request (PR) when finished. Here's a strategy:
 
 ### 1\. **Start with a Dedicated Feature Branch**
