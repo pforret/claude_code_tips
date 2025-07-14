@@ -33,34 +33,34 @@
 
 > Context7 pulls up-to-date, version-specific documentation and code examples directly from the source. Paste accurate, relevant documentation directly into tools like Cursor, Claude, or any LLM. Get better answers, no hallucinations, and an AI that actually understands your stack.
 
-* https://context7.com/
+* [context7.com](https://pforret.github.io/claude_code_tips/)
 
 ## VisionCraft
 
 > While other context providers like Context 7 aim to supply LLMs with up-to-date documentation, VisionCraft offers distinct advantages for developers seeking precision, breadth, and efficiency. VisionCraft boasts access to over 100,000 libraries, all kept current in real-time through our proprietary Raven engine, ensuring you're always working with the latest information.
 
-* https://github.com/augmentedstartups/VisionCraft-MCP-Server
+* [augmentedstartups/VisionCraft-MCP-Server](https://pforret.github.io/claude_code_tips/)
 
 ## Gemini CLI Integration for Claude Code MCP Server
 
 > A complete setup guide for integrating Google's Gemini CLI with Claude Code through an MCP (Model Context Protocol) server. This provides automatic second opinion consultation when Claude expresses uncertainty or encounters complex technical decisions.
 
-* https://gist.github.com/AndrewAltimit/fc5ba068b73e7002cbe4e9721cebb0f5
+* [AndrewAltimit/fc5ba068b73e7002cbe4e9721cebb0f5](https://pforret.github.io/claude_code_tips/)
 
 ## Microsoft Playwright MCP
 
 > A Model Context Protocol (MCP) server that provides browser automation capabilities using Playwright. This server enables LLMs to interact with web pages through structured accessibility snapshots, bypassing the need for screenshots or visually-tuned models.
 
-* https://github.com/microsoft/playwright-mcp
+* [microsoft/playwright-mcp](https://pforret.github.io/claude_code_tips/)
 
 ## Chunkhound
 
 > Transform your codebase into a searchable knowledge base. ChunkHound provides AI assistants with intelligent code search capabilities using natural language and regex patterns.
 
-* https://github.com/ofriw/chunkhound
+* [ofriw/chunkhound](https://pforret.github.io/claude_code_tips/)
 
 ## Octocode
 
 > The perfect code assistant that can help understand anything. Octocode provides AI-powered advanced search with heuristic discovery and smart fallbacks to understand connections between repositories and NPM packages across any privilege level you have.
 
-* https://github.com/bgauryy/octocode-mcp
+* [bgauryy/octocode-mcp](https://pforret.github.io/claude_code_tips/)
