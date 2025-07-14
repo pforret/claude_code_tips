@@ -13,17 +13,17 @@ This is a documentation repository containing Claude Code tips, best practices, 
 ## Key Resources Referenced
 
 ### Context Engineering Sources
-- **David Kimai**: https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands
-- **Cole**: https://github.com/coleam00/context-engineering-intro/tree/main/.claude/commands
-- **SuperClaude**: https://github.com/NomenAK/SuperClaude/tree/master/SuperClaude/Commands
+- **David Kimai**: [davidkimai/Context-Engineering](https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands)
+- **Cole**: [coleam00/context-engineering-intro](https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands)
+- **SuperClaude**: [NomenAK/SuperClaude](https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands)
 
 ### MCP Tools
 - **Context7**: Real-time documentation provider (https://context7.com/)
-- **VisionCraft**: 100,000+ libraries with real-time updates (https://github.com/augmentedstartups/VisionCraft-MCP-Server)
+- **VisionCraft**: 100,000+ libraries with real-time updates [augmentedstartups/VisionCraft-MCP-Server](https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands)
 - **Gemini CLI Integration**: Second opinion consultation for complex decisions
 
 ### Best Practices Source
-- **Anthropic Engineering**: https://www.anthropic.com/engineering/claude-code-best-practices
+- **Anthropic Engineering**: [anthropic.com/engineering/claude-code-best-practices](https://github.com/davidkimai/Context-Engineering/tree/main/.claude/commands)
 
 ## Git Workflow Strategy
 
