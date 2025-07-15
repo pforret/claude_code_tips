@@ -1,4 +1,4 @@
-# Claude Code tips
+# [Claude Code tips](https://github.com/pforret/claude_code_tips)
 
 ## Project Overview
 
@@ -7,6 +7,7 @@ This is a documentation repository containing Claude Code tips, best practices, 
 ## Repository Structure
 
 - **[COMMANDS.md](COMMANDS.md)**: Links to essential slash commands from various context engineering projects
+- **[FILES.md](FILES.md)**: essential files that help you do better AI-assisted development with Claude Code
 - **[GIT.md](GIT.md)**: Comprehensive guide on using Git as a checkpoint system with Claude Code
 - **[MCP.md](MCP.md)**: Essential MCP tools and best practices for agentic coding
 
