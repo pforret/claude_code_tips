@@ -1,5 +1,14 @@
 # Using git as an intermediate checkpoint system with Claude Code
 
+> I have created [github.com/pforret/clode](https://github.com/pforret/clode) to facilitate this workflow, which is a simple wrapper around the `git` command to make it easier to use with Claude Code.
+
+```bash
+clode branch [new_branch]        # create a new branch for your big update
+clode intermediate '[Intermediate status description]' # every time you reach a stable point
+clode rollback [commit_hash] # if the changes after the last commit are not needed
+clode push                       # squash all intermediate commits into 1 big commit
+```
+
 ## TL;DR
 
 ```bash
