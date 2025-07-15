@@ -6,6 +6,8 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a documentation repository containing Claude Code tips, best practices, and resources. It's a collection of knowledge about MCP (Model Context Protocol) tools, Git workflows, and essential commands for effective Claude Code usage.
 
+This repository is licensed under the MIT License, encouraging open collaboration and knowledge sharing in the Claude Code community.
+
 ## Repository Structure
 
 - **COMMANDS.md**: Links to essential slash commands from various context engineering projects
