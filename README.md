@@ -1,3 +1,8 @@
+![GitHub Release](https://img.shields.io/github/v/release/pforret/claude_code_tips)
+![GitHub Tag](https://img.shields.io/github/v/tag/pforret/claude_code_tips)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/pforret/claude_code_tips)
+
+
 # [Claude Code tips](https://github.com/pforret/claude_code_tips)
 
 ## Project Overview
